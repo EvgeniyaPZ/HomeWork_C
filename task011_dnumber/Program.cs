@@ -10,7 +10,7 @@ int arr = CommonArray(100,1000);
 string arr1= arr.ToString();
 //string arr2= substing(1,3);
 //int arr2= arr%100;
-Console.Write(arr1[0]);
+Console.WriteLine(arr1[0]);
 Console.WriteLine(arr1[2]);
 Console.WriteLine(arr);
 
